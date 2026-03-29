@@ -1,1 +1,1 @@
-# Lalonde-DiD-Causal-Inference
+# Treatment Effect Analysis with DiD in Lalonde dataset
