@@ -1,4 +1,4 @@
-# Treatment Effect Analysis with DiD in Lalonde dataset
+# Treatment Analysis: Job Training Effect on Earnings
 # Does Job Training Raise Earnings?
 
 ---
